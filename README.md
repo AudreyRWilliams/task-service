@@ -4,7 +4,7 @@ A small Java application that lets you create, view, and complete tasks. It uses
 <img width="628" height="388" alt="Screen Shot 2025-09-01 at 2 41 35 PM" src="https://github.com/user-attachments/assets/1bf7a8a7-aef9-45c1-8f4b-0972a43e0193" />
 <hr>
 <img width="678" height="291" alt="Screen Shot 2025-09-01 at 8 15 33 AM" src="https://github.com/user-attachments/assets/b501f410-c51c-4039-971b-f08a43a524fa" />
-
+<hr>
 Below are the steps to <b>recreate and run</b> this project in <b>GitHub Codespaces</b>:
 
 ## 🔹 Step 1: Create the repository
