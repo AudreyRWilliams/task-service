@@ -6,6 +6,12 @@ A small Java application that lets you create, view, and complete tasks. It uses
 Below are the steps to <b>recreate and run</b> this project in <b>GitHub Codespaces</b>:
 
 ## 🔹 Step 1: Create the repository
+- Go to GitHub.
+- Click New Respository.
+     - Name: `task-service`
+     - Public (or private if you prefer)
+     - Initialize with a README
+- Click Create Repository
 ## 🔹 Step 2: Open the repository in a Codespace
 ## 🔹 Step 3. Add the Java Project
 ## 🔹 Step 4. Verify Java & Maven
