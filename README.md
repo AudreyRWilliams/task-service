@@ -7,3 +7,9 @@ Below are the steps to <b>recreate and run</b> this project in <b>GitHub Codespa
 
 ## 🔹 Step 1: Create the repository
 ## 🔹 Step 2: Open the repository in a Codespace
+## 🔹 Step 3. Add the Java Project
+## 🔹 Step 4. Verify Java & Maven
+## 🔹 Step 5. Build the Project
+## 🔹 Step 6. Run the Project
+## 🔹 Step 7. Run Tests
+## 🔹 Step 8. Commit and Push
