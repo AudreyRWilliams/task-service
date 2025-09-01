@@ -5,5 +5,5 @@ A small Java application that lets you create, view, and complete tasks. It uses
 
 Below are the steps to <b>recreate and run</b> this project in <b>GitHub Codespaces</b>:
 
-## Step 1: Create the repository
-## Step 2: Open the repository in a Codespace
+## 🔹 Step 1: Create the repository
+## 🔹 Step 2: Open the repository in a Codespace
