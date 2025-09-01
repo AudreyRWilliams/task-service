@@ -31,6 +31,7 @@ Codespaces usually comes with Java, but check:
 <img width="302" height="110" alt="Screen Shot 2025-09-01 at 9 47 48 AM" src="https://github.com/user-attachments/assets/4a5b0dc7-69db-40f0-bc5a-64d172616300" />
 
      - If missing, install Maven:
+     
      <img width="246" height="113" alt="Screen Shot 2025-09-01 at 9 49 26 AM" src="https://github.com/user-attachments/assets/856126b9-f9d2-43b4-a54d-0f4694df6821" />
 
 ## 🔹 Step 5. Build the Project
