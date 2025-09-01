@@ -35,6 +35,24 @@ Codespaces usually comes with Java, but check:
 <img width="246" height="113" alt="Screen Shot 2025-09-01 at 9 49 26 AM" src="https://github.com/user-attachments/assets/856126b9-f9d2-43b4-a54d-0f4694df6821" />
 
 ## 🔹 Step 5. Build the Project
+In terminal:
+
+<img width="269" height="87" alt="Screen Shot 2025-09-01 at 1 11 21 PM" src="https://github.com/user-attachments/assets/91079b22-1235-4abd-986c-877a9099cc47" />
+
 ## 🔹 Step 6. Run the Project
+Use Maven’s exec plugin (already in pom.xml):
+
+<img width="203" height="78" alt="Screen Shot 2025-09-01 at 1 13 14 PM" src="https://github.com/user-attachments/assets/09000250-1c03-4ff0-ac28-cd917651f79e" />
+
+You should see output like:
+
+<img width="526" height="224" alt="Screen Shot 2025-09-01 at 1 15 21 PM" src="https://github.com/user-attachments/assets/9855e8a3-31d2-42f8-a9d1-4199925dfd47" />
+
 ## 🔹 Step 7. Run Tests
+
+<img width="171" height="83" alt="Screen Shot 2025-09-01 at 1 16 03 PM" src="https://github.com/user-attachments/assets/4b640b3b-6e19-48de-aedb-7decdc5fff85" />
+
 ## 🔹 Step 8. Commit and Push
+When everything works in the GitHub Codespace, push the application to the GitHub repository:
+
+<img width="498" height="134" alt="Screen Shot 2025-09-01 at 1 17 58 PM" src="https://github.com/user-attachments/assets/6f8597ae-718f-4b39-bb10-d59a9610d711" />
