@@ -7,13 +7,22 @@ Below are the steps to <b>recreate and run</b> this project in <b>GitHub Codespa
 
 ## 🔹 Step 1: Create the repository
 - Go to GitHub.
-- Click New Respository.
+- Click <b>New Respository</b>.
      - Name: `task-service`
      - Public (or private if you prefer)
      - Initialize with a README
-- Click Create Repository
+- Click <b>Create Repository</b>
 ## 🔹 Step 2: Open the repository in a Codespace
+- In your repo page, click the green <b>Code</b> button.
+- Go to the <b>Codespaces</b> tab → click <b>Create codespace on main</b>.
+     - GitHub will provision a Linus dev environment with VS Code inside the browser.
 ## 🔹 Step 3. Add the Java Project
+- In Codespaces, open a terminal (bottom panel).
+- Create the project structure:
+
+<img width="520" height="121" alt="Screen Shot 2025-09-01 at 9 32 02 AM" src="https://github.com/user-attachments/assets/2b11e80c-b706-48de-949e-2074f11d7c08" />
+
+- Create `pom.xml` in the `task-service/` folder.
 ## 🔹 Step 4. Verify Java & Maven
 ## 🔹 Step 5. Build the Project
 ## 🔹 Step 6. Run the Project
